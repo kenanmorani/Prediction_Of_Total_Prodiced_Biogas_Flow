@@ -9,5 +9,5 @@ The code is similar to the one above. This time, however, the data was scaled by
 ### Recursive_SVM_Standard_scaled_Feature_selective_for_Biogas_Flow_Prediction_Results.ipynb
 The code includes the results of: Mean Square Error, Root Mean Square Error, Mean Absolute Percentage Error, Nash–Sutcliffe Model Efficiency, and Accuracy Score.
 
-### Recursive_SVM_Standard_scaled_Feature_selective_for_Biogas_Flow_Prediction_Results.ipynb
+### Recursive_SVM_Standard_scaled_Feature_selective_for_Biogas_Flow_Prediction_Results2.ipynb
 The code includes the results of: Percent bias (PBIAS), Average Bias Deviation, and Index of Agreement.
