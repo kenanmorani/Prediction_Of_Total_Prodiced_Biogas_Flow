@@ -1,5 +1,6 @@
 # Prediction_Of_Total_Prodiced_Biogas_Flow
-* The code in here is related to a collaborative publication-aimed work; Recursive Support Vector Regressor model is aimed to measure and show the perfomance of data collected by colleagues to predict Biogaz flow.
+* The code in here is voluteering work; 
+* Recursive Support Vector Regressor model is built aimig to measure and show the perfomance of data collected to predict Biogaz flow.
 * The codes are as follows:
 ### Recursive_SVM_Feature_selective_for_Biogas_Flow_Prediction.ipynb
 * The code presnet Support Vector Regression (SVR) model used on a dataset that aims at predicting Total preduction of Biogaz Flow. The SVR model recursively eliminate features from the dataset based on their SVR linear coeffiecient values, more spesifically the model eliminate features with the smallest resulting coeffecient weights.
