@@ -14,3 +14,16 @@ The code includes the results of the model with regards to Mean Square Error, Ro
 
 ### Recursive_SVM_Standard_scaled_Feature_selective_for_Biogas_Flow_Prediction_Results2.ipynb
 The code includes the results of Percent bias (PBIAS), Average Bias Deviation, and Index of Agreement. The C parameter for the model was edited to aquire better results, mainly in terms of 'Index of Agreement' measure.
+
+## Cite
+If you use the dataset, please consider citing the folowing paper:
+
+@article{yetilmezsoy2021black,
+  title={Black-, gray-, and white-box modeling of biogas production rate from a real-scale anaerobic sludge digestion system in a biological and advanced biological treatment plant},
+  author={Yetilmezsoy, Kaan and Karakaya, Kevser and Bahramian, Majid and Abdul-Wahab, Sabah Ahmed and Goncalo{\u{g}}lu, B{\"u}lent {\.I}lhan},
+  journal={Neural Computing and Applications},
+  volume={33},
+  pages={11043--11066},
+  year={2021},
+  publisher={Springer}
+}
