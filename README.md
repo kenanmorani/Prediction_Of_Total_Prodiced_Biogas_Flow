@@ -18,12 +18,12 @@ The code includes the results of Percent bias (PBIAS), Average Bias Deviation, a
 ## Cite
 If you use the dataset, please consider citing the folowing paper:
 
-@article{yetilmezsoy2021black,
-  title={Black-, gray-, and white-box modeling of biogas production rate from a real-scale anaerobic sludge digestion system in a biological and advanced biological treatment plant},
+@article{yetilmezsoy2021black, <br>
+  title={Black-, gray-, and white-box modeling of biogas production rate from a real-scale anaerobic sludge digestion system in a biological and advanced biological treatment plant},<br>
   author={Yetilmezsoy, Kaan and Karakaya, Kevser and Bahramian, Majid and Abdul-Wahab, Sabah Ahmed and Goncalo{\u{g}}lu, B{\"u}lent {\.I}lhan},
-  journal={Neural Computing and Applications},
-  volume={33},
-  pages={11043--11066},
-  year={2021},
-  publisher={Springer}
-}
+  journal={Neural Computing and Applications},<br>
+  volume={33},<br>
+  pages={11043--11066},<br>
+  year={2021},<br>
+  publisher={Springer}<br>
+}<br>
